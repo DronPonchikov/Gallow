@@ -1,0 +1,11 @@
+D:\Visual C#\Gallow\bin\Debug\netcoreapp3.0\Gallow.exe
+D:\Visual C#\Gallow\bin\Debug\netcoreapp3.0\Gallow.deps.json
+D:\Visual C#\Gallow\bin\Debug\netcoreapp3.0\Gallow.runtimeconfig.json
+D:\Visual C#\Gallow\bin\Debug\netcoreapp3.0\Gallow.runtimeconfig.dev.json
+D:\Visual C#\Gallow\bin\Debug\netcoreapp3.0\Gallow.dll
+D:\Visual C#\Gallow\bin\Debug\netcoreapp3.0\Gallow.pdb
+D:\Visual C#\Gallow\obj\Debug\netcoreapp3.0\Gallow.csprojAssemblyReference.cache
+D:\Visual C#\Gallow\obj\Debug\netcoreapp3.0\Gallow.AssemblyInfoInputs.cache
+D:\Visual C#\Gallow\obj\Debug\netcoreapp3.0\Gallow.AssemblyInfo.cs
+D:\Visual C#\Gallow\obj\Debug\netcoreapp3.0\Gallow.dll
+D:\Visual C#\Gallow\obj\Debug\netcoreapp3.0\Gallow.pdb
